@@ -1,0 +1,68 @@
+# Ignore all .wav files
+*.wav
+
+# Ignore compiled files
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Ignore packaged files
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Ignore OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Ignore node modules
+node_modules/
+
+# Ignore build directories
+/build
+/dist
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore large media files
+*.mp4
+*.tiff
+*.avi
+*.flv
+*.mov
+*.wmv
+
+# Ignore documentation files
+*.pdf
+
+# Ignore backup files
+*.bak
+*.tmp
